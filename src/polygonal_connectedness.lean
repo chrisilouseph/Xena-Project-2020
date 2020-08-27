@@ -20,7 +20,7 @@ implies polygonal-connectedness and all regions in ℂ are step-connected.
 * `is_poly_connected` : polygonal-connectedness for subsets of complex numbers
 * `are_step_connected` : step-connectedness for pairs of complex numbers
 * `is_step_connected` : step-connectedness for subsets of complex numbers
-* `is_region` : regions (open and connected sets) of a topological space
+* `is_region` : regions (also called domains, i.e. open and connected sets) of a topological space
 
 ## Implementation notes
 
